@@ -27,7 +27,7 @@ purposes. Unfortunately, the only available historic arrest data on NYC Open Dat
 from 2006 to the present day. I requested the institution’s team for data from the 1970s
 onward, but the team did not have those records available. After creating a useable,
 narrowed dataset, I created an interactive map visualization in Tableau.
-  *The files related to this step include the original NYC Open Data file "Arrests.csv" , the code used to parse this file "Borough_Offense_parse.py" and the resulting files "Queens_arrests.csv" , "Manhattan_arrests.csv" , "Bronx.arrests.csv" , "Brooklyn_arrests.csv" , and "Staten_arrests.csv" 
+  *The files related to this step include the code used to parse the file downloaded from NYC Open Data "Borough_Offense_parse.py" and the resulting files "Parsed_arrests" , "Queens_arrests.csv" , "Manhattan_arrests.csv" , "Bronx.arrests.csv" , "Brooklyn_arrests.csv" , and "Staten_arrests.csv" 
   3. While heavy in data analysis and code usage, a large portion of this project demanded
 extensive research into the legislation and political occurrences during the time frame of
 my project scope. An analysis of Article 230 in the New York State Penal Law was
